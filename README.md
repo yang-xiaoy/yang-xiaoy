@@ -3,6 +3,7 @@
 - 👋 Hi, I’m https://github.com/yang-xiaoy
 - 👀 公众号：杨小样随笔
 - 🌱 编码之路：记录学习，实践案例，还有一些其它的内容。
+- 🗺 湖北·武汉
 - 📫 yang_xuefan@126.com
 
 <!---
